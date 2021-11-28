@@ -1,0 +1,16 @@
+body {
+    /*background-color: rgba(96, 32, 147, 70%);*/
+    /*background-color: #96eeb9;*/
+    /*background-color: #A73489;*/
+    background-image: url("/img/455-degradados.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#cf {
+    background-color: #6610f2;
+    /*border-radius: 1px solid red;*/
+}
+/*a:hover {
+    color: black;
+    /*background-color: #96eeb9
+}*/
